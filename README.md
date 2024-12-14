@@ -9,3 +9,23 @@ Please enable Developer Mode in your system settings. Run
 to open settings.
 
 خطا: در فایل pubspec.yamel دو ارور  git و path نیز موجود می باشد.
+
+2.https://github.com/abuanwar072/eBook_app_Flutter.git
+
+#error
+
+The lower bound of "sdk: '>=2.1.0 <3.0.0'" must be 2.12.0'
+or higher to enable null safety.
+
+The current Dart SDK (3.5.2) only supports null safety.
+
+For details, see https://dart.dev/null-safety
+exit code 65
+
+#dependencies:
+  flutter:
+    sdk: flutter
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+
