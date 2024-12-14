@@ -29,3 +29,15 @@ exit code 65
   Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
 
+  3.https://github.com/ashu98s/eBooks.git
+
+  #error
+
+[eBooks] flutter create --platforms web .
+"eBooks" is not a valid Dart package name.
+
+The name should be all lowercase, with underscores to separate words, "just_like_this".Use only basic Latin letters and Arabic digits: [a-z0-9_].Also, make sure the name is a valid Dart identifier—that it doesn't start with digits and isn't a reserved word.
+See https://dart.dev/tools/pub/pubspec#name for more information.
+Try "ebooks" instead.
+exit code 1
+
