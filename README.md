@@ -77,9 +77,11 @@ or higher to enable null safety.
 The current Dart SDK (3.5.2) only supports null safety.
 
 For details, see https://dart.dev/null-safety
+
 exit code 65
 
 8. https://github.com/AbedElazizShe/Flutter-Ebooks-Shop-Demo.git
+   
 #error
 he lower bound of "sdk: '>=2.3.0 <3.0.0'" must be 2.12.0'
 or higher to enable null safety.
@@ -87,6 +89,7 @@ or higher to enable null safety.
 The current Dart SDK (3.5.2) only supports null safety.
 
 For details, see https://dart.dev/null-safety
+
 exit code 65
 
 
