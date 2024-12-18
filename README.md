@@ -92,4 +92,15 @@ For details, see https://dart.dev/null-safety
 
 exit code 65
 
+610.https://github.com/MohamedEssam9009/Bookly.git
+
+
+#error
+
+The name should be all lowercase, with underscores to separate words, "just_like_this".Use only basic Latin letters and Arabic digits: [a-z0-9_].Also, make sure the name is a valid Dart identifier—that it doesn't start with digits and isn't a reserved word.
+See https://dart.dev/tools/pub/pubspec#name for more information.
+Try "bookly_main" instead.
+exit code 1
+
+
 
