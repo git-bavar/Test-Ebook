@@ -45,3 +45,48 @@ exit code 1
 
 ![image](https://github.com/user-attachments/assets/69161bf3-79a3-43c6-baef-1a83b55514b7)
 
+
+ 5. https://github.com/ramialkaro/lit-habit.git
+
+#error
+[lit-habit] flutter pub get --no-example
+Resolving dependencies...
+Note: meta is pinned to version 1.15.0 by flutter_test from the flutter SDK.
+See https://dart.dev/go/sdk-version-pinning for details.
+Because every version of flutter_test from sdk depends on meta any which doesn't exist (authorization failed), flutter_test from sdk is forbidden.
+So, because lithabit depends on flutter_test from sdk, version solving failed.
+Insufficient permissions to the resource at the https://pub.dev package repository.
+You can modify credentials using:
+    dart pub token add https://pub.dev
+exit code 69
+6. https://github.com/MrMDrX/eBookStore.git
+
+ecause ebookstore depends on flutter_launcher_icons any which doesn't exist (authorization failed), version solving failed.
+
+Insufficient permissions to the resource at the https://pub.dev package repository.
+You can modify credentials using:
+    dart pub token add https://pub.dev
+exit code 69
+
+7. https://github.com/ShellPeng/ixdzs_ebook.git
+
+#error
+The lower bound of "sdk: '>=2.1.0 <3.0.0'" must be 2.12.0'
+or higher to enable null safety.
+
+The current Dart SDK (3.5.2) only supports null safety.
+
+For details, see https://dart.dev/null-safety
+exit code 65
+
+8. https://github.com/AbedElazizShe/Flutter-Ebooks-Shop-Demo.git
+#error
+he lower bound of "sdk: '>=2.3.0 <3.0.0'" must be 2.12.0'
+or higher to enable null safety.
+
+The current Dart SDK (3.5.2) only supports null safety.
+
+For details, see https://dart.dev/null-safety
+exit code 65
+
+
