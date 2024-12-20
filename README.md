@@ -104,3 +104,13 @@ exit code 1
 
 
 
+
+Error: Building with plugins requires symlink support.
+
+Please enable Developer Mode in your system settings. Run
+  start ms-settings:developers
+to open settings.
+
+Exited (1).
+
+
