@@ -103,6 +103,7 @@ Try "bookly_main" instead.
 exit code 1
 
 
+601.https://github.com/steliospapelis/readXpress.git
 
 
 Error: Building with plugins requires symlink support.
